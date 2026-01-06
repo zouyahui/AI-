@@ -1,0 +1,8 @@
+{
+  "name": "Dream Garden AI",
+  "description": "Design your perfect garden sanctuary with AI-generated layouts and interactive image editing.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
